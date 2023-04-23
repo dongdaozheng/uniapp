@@ -1,0 +1,22 @@
+{
+  "name": "uniapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddz2456820347/uniapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddz2456820347/uniapp/issues"
+  },
+  "homepage": "https://github.com/ddz2456820347/uniapp#readme",
+  "dependencies": {
+    "eslint": "^8.39.0"
+  }
+}
